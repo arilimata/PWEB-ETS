@@ -1,0 +1,14 @@
+body {
+    padding-top: 60px;
+}
+nav.navbar.navbar-expand-lg{
+    background-color: bisque;
+}
+
+.card-img-overlay {
+    background-color: rgba(54, 54, 54, 0.534);
+}
+
+.event-image {
+width: 200px;
+}
